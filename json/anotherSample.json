@@ -1,9 +1,4 @@
 {
-    "name" : "ram",
-    "address" : {
-        "city" : "hyd",
-        "zip" : 500019
-    },
     "phonenumbers": [
         {
             "type" :  "Home",
@@ -209,12 +204,5 @@
                 }
             ] 
         }
-    ],
-    "employer" : {
-        "office" : {
-            "address" : {
-                "street" : "10d"
-            }
-        }
-    }
+    ]
 }
