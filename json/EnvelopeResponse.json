@@ -1,0 +1,13 @@
+
+  {
+      "status" : "sent",
+      "envelopeId" : "a2228a1b-e286-46a1-93f3-aff0827e64be",
+      "emailSubject": "AC Ventilators - 1000 pieces - A grade",
+      "uri": "/envelopes/a2228a1b-e286-46a1-93f3-aff0827e64be",
+      "IsActive" : true,
+      "recipient" : {
+          "id" : "test@tesc.om",
+          "name" : "test"
+      }
+      
+  }
