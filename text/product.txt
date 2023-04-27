@@ -1,0 +1,10 @@
+[
+"product.name",
+"product.order.id",
+"product.order.date",
+"product.order.owner.username",
+"product.wishlistedUsers[].userid",
+"product.wishlistedUsers[].username",
+"product.wishlistedUsers[].addresses[].isprimary",
+"product.wishlistedUsers[].addresses[].isoffice"
+]
