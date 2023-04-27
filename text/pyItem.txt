@@ -1,0 +1,9 @@
+[
+"pyItemNumber",
+"pyItemName",
+"pyUserId",
+"pyItem.bookingdate",
+"LineItem.bookmarkedOperators[].operatorId",
+"LineItem.bookmarkedOperators[].operator",
+"LineItem[].bookmarkedOperators[].postaldetails[].isMain"
+]
