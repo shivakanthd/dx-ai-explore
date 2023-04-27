@@ -1,0 +1,220 @@
+{
+    "name" : "ram",
+    "address" : {
+        "city" : "hyd",
+        "zip" : 500019
+    },
+    "phonenumbers": [
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "type" :  "Home",
+            "number" : 1000,
+            "Codes" : [
+                {
+                    "country" : "91",
+                    "countryNames" : [
+                        {
+                            "name" : "India"
+                        },
+                        {
+                            "name" : "Bharath"
+                        }
+                    ]
+                }
+            ] 
+        }
+    ],
+    "employer" : {
+        "office" : {
+            "address" : {
+                "street" : "10d"
+            }
+        }
+    }
+}
